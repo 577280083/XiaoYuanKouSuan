@@ -1,7 +1,9 @@
 import pyautogui
 import msvcrt
+import time
 
-print('获取鼠标的位置，按p退出')
+print('获取鼠标的位置，按p退出,3秒后开始')
+time.sleep(3)
 
 while True:
     print(pyautogui.position())
