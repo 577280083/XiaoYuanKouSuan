@@ -18,10 +18,6 @@
    ```
    pip install pyautogui numpy cnocr
    ```
-   或者
-   ```
-   pip install -r requirements.txt
-   ```
    > 本人安装CnOcr时还需要安装C++环境才可以安装
    > 
    > 国内可以加上`-i https://pypi.doubanio.com/simple`参数加速下载
